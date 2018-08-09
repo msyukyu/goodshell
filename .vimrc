@@ -1,4 +1,4 @@
 set number
 syntax on
-highlight OverLength ctermbg=red ctermfg=white guibg=#592929
-match OverLength /\%81v.\+/
+autocmd FileType c highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+autocmd FileType c match OverLength /\%81v.\+/
