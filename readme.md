@@ -20,3 +20,10 @@ https://github.com/sebastiencs/piscine_42/blob/master/j01/ex09/add_chelou.sh
 https://www.developpez.net/forums/d600887/general-developpement/programmation-systeme/linux/operations-nombres-bases-differentes/
 
 
+
+
+
+
+
+
+norminette -R CheckForbiddenSourceHeader
